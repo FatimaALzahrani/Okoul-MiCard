@@ -44,6 +44,6 @@ https://github.com/FatimaALzahrani/Okoul-MiCard/assets/107775566/07836224-42f9-4
       
    ## Deliverables 
   <ol type="1">
-      	<li>[GitHub source](https://github.com/FatimaALzahrani/Okoul-MiCard)</li>
-      	<li>[Link](https://preview.flutlab.io/user_djl/micard/#/) </li> 
+      	<li><a href="https://github.com/FatimaALzahrani/Okoul-MiCard">GitHub source</a></li>
+        <li><a href="https://preview.flutlab.io/user_djl/micard/#/">Link</a></li>
       </ol>
