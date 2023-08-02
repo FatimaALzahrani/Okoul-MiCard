@@ -5,6 +5,10 @@ A mobile app that displays a digital business card using Flutter widgets for con
 <br>
 ## Demo 
 
+https://github.com/FatimaALzahrani/Okoul-MiCard/assets/107775566/07836224-42f9-4bb3-869a-bde4fc41527f
+
+<br>
+<br>
 ## Challenge Requirements: 
 <ul>
 <li> Design and Layout:
@@ -39,8 +43,8 @@ A mobile app that displays a digital business card using Flutter widgets for con
       
    ## Deliverables 
   <ol type="1">
-      	<li>GitHub source (upload your source code to GitHub and share the repository link)</li>
-      	<li>Android APK </li>
+      	<li>(GitHub source)[https://github.com/FatimaALzahrani/Okoul-MiCard]</li>
+      	<li>(Link)[https://preview.flutlab.io/user_djl/micard/#/] </li> 
       </ol>
 </article> 
                 </div>
