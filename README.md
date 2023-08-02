@@ -1,16 +1,44 @@
-# micard
+# MiCard 📇
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Background
+A mobile app that displays a digital business card using Flutter widgets for contact information and provides a share link. <br>
+<br>
+## Challenge Requirements: 
+    <ul>
+      <li> Design and Layout:
+        <ul>
+        <li>Predefined templates for business card design.</li>
+        <li>Customization options are available for name, job title, company, contact information, and more.</li>
+        <li>Aesthetically pleasing layout with proper alignment and spacing.</li>
+        </ul>
+      </li>
+    <li>Branding and Customization:
+        <ul>
+        <li>Customizable color schemes and font styles.</li>
+        <li>Option to upload a profile picture or logo.</li>
+        </ul>
+      </li>
+    <li>Responsive Design:
+        <ul>
+        <li>Support for Android and iOS devices, various screen sizes, and orientations.</li>
+        </ul>
+      </li>
+  <li>Saving and Sharing:
+        <ul>
+        <li>Save the business card as an image.</li>
+        <li>Save the business card as an pdf.</li>
+        <li>Show the business card as QR code to be scanned.</li>
+        <li>Scanned QR code should show an image of the business card</li>
+        </ul>
+      </li>
+    </ul>
+      Add whatever you see creative ??
+      <br>
+      
+   ## Deliverables 
+      <ol type="1">
+      	<li>GitHub source (upload your source code to GitHub and share the repository link)</li>
+      	<li>Android APK </li>
+      </ol>
+</article> 
+                </div>
